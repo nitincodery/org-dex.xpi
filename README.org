@@ -14,11 +14,10 @@ Org-Dex is a lightweight Firefox extension that allows users to quickly copy all
 - Automatically copies the formatted session to the clipboard.
 
 * Installation
-1. Clone or download this repository.
-2. Zip the cloned directory.
-3. Rename =.zip= to =.xpi= as =org-dex.xpi=
-4. Drag and drop =org-dex.xpi= file into Firefox.
-5. The extension is now installed and ready to use.
+1. Download latest release.
+2. Open =about:debugging= in Firefox.
+3. Load the downloaded =org-dex.xpi-v1.0.0.zip= in Temporary Extension section.
+4. The extension is now installed and ready to use.
 
 * Usage
 1. Click on the Org-Dex extension icon.
